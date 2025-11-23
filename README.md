@@ -70,7 +70,6 @@ Example:
 ## 🐛 Troubleshooting
 
 -   **"No images found"** → Ensure files use `.png`, `.jpg`, or `.jpeg`\
--   **"Exceeds 16×16"** → Maximum supported images: 256\
 -   **Permission errors** → Check write access to the output directory
 
 ------------------------------------------------------------------------
