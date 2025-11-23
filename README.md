@@ -40,6 +40,7 @@ Follow the interactive prompts:
     Glyph Name (e.g., E3) -> E5
 
 Example:
+
     Images Folder -> images
     Glyph Name (e.g., E3) -> E5
 
